@@ -1,0 +1,15 @@
+mappings:
+  - switch_id: DH_BTN_PASSAGE_0004
+    light_id: "Side-Tunnel"
+
+  - switch_id: UM_BTN_WINDOW_0005
+    light_id: "Master"
+    brightness: 50
+
+  - switch_id: UH_BTN_LANDING_0006
+    light_id: "Landing"
+    brightness: 30
+
+  - switch_id: DK_BTN_HALL_0007
+    light_id: "Kitchen-Table"
+    brightness: 100
